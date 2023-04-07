@@ -7,9 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ping-k/pingk.git"
+  },
+  "homepage": "https://www.ping-k.cn",
+  "private": false,
+  "keywords": ["pingk", "pingk cli", "自定义cli", "pingk"],
+  "author": "pingk",
   "license": "ISC",
+  "readmeFilename": "README.md",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^10.0.0",
