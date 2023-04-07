@@ -1,0 +1,22 @@
+{
+  "name": "pingk",
+  "version": "1.0.1",
+  "description": "pingk 脚手架开发",
+  "main": "index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.2",
+    "node-ssh": "^13.0.1",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.5"
+  }
+}
