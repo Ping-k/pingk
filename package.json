@@ -1,6 +1,6 @@
 {
   "name": "pingk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pingk 脚手架开发",
   "main": "index.js",
   "bin": "bin/index.js",
@@ -13,7 +13,12 @@
   },
   "homepage": "https://www.ping-k.cn",
   "private": false,
-  "keywords": ["pingk", "pingk cli", "自定义cli", "pingk"],
+  "keywords": [
+    "pingk",
+    "pingk cli",
+    "自定义cli",
+    "pingk"
+  ],
   "author": "pingk",
   "license": "ISC",
   "readmeFilename": "README.md",
